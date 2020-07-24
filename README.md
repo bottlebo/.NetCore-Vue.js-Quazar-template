@@ -1,6 +1,6 @@
 ## Install
 
-From ./.template.config folder run command
+From root folder run command
 ```
 dotnet new -i ./
 ```
